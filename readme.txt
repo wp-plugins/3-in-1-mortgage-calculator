@@ -1,9 +1,9 @@
 === Plugin Name ===
 Contributors: stevenr4
-Tags: mortgage, calculator
+Tags: mortgage, calculator, personal finance
 Requires at least: 3.0.1
 Tested up to: 4.2.2
-Stable tag: 1.0
+Stable tag: 1.01
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -37,13 +37,16 @@ In addition to the standard calculations. you can also view a detailed report wh
 
 == Screenshots ==
 
-1. horizontal.jpg
-2. vertical.jpg
+1. screenshot-1.jpg
+2. screenshot-2.jpg
 
 == Changelog ==
 
 = 1.0 =
 * Created
+
+= 1.1 =
+* Renamed screenshots
 
 == Upgrade Notice ==
 
